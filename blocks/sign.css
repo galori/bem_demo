@@ -1,0 +1,23 @@
+.sign {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 280px;
+    height: 162px;
+}
+
+.sign__number {
+    font-size: 32px;
+    text-decoration: underline;
+}
+
+.sign__title {
+    margin-top: 1em;
+    text-transform: uppercase;
+}
+
+.sign__description {
+    font-size: 12px;
+    margin-top: 1em;
+    text-align: center;
+}

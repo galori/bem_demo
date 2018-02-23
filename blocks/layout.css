@@ -1,0 +1,12 @@
+.layout {
+
+}
+
+.layout__title {
+
+}
+
+.layout__details {
+   display: flex;
+  flex-direction: row;
+}

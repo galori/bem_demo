@@ -1,0 +1,21 @@
+.poster {
+  width: 546px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 100px auto;
+}
+
+.poster__title {
+    font-size: 62px;
+}
+
+.poster__subtitle {
+    font-size: 23px;
+}
+
+.poster__buttons {
+    margin-top: 20px;
+    display: flex;
+}
+
